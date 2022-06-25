@@ -123,20 +123,3 @@
 </tbody>
 </table>
 <p><br></p>
-<p><span style="text-align: inherit;"><strong>Submission file format</strong></span></p>
-<table style="border: none;border-collapse: collapse;width:594pt;box-sizing: border-box;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-style: initial;text-decoration-color: initial;">
-<tbody>
-<tr>
-<td style="color:black;font-size:16px;font-weight:700;font-style:normal;text-decoration:none;font-family:Calibri, sans-serif;text-align:general;vertical-align:bottom;border:.5pt solid windowtext;height:16.0pt;width:144pt;"><span style="font-family: 'Times New Roman', Times, serif;">Variable</span></td>
-<td style="color:black;font-size:16px;font-weight:700;font-style:normal;text-decoration:none;font-family:Calibri, sans-serif;text-align:general;vertical-align:bottom;border:.5pt solid windowtext;border-left:none;width:450pt;box-sizing: border-box;"><span style="font-family: 'Times New Roman', Times, serif;">Description</span></td>
-</tr>
-<tr>
-<td style="color:black;font-size:16px;font-weight:400;font-style:normal;text-decoration:none;font-family:Calibri, sans-serif;text-align:general;vertical-align:bottom;border:.5pt solid windowtext;height:16.0pt;border-top:none;box-sizing: border-box;"><span style="font-family: 'Times New Roman', Times, serif;">Loan_ID</span></td>
-<td style="color:black;font-size:16px;font-weight:400;font-style:normal;text-decoration:none;font-family:Calibri, sans-serif;text-align:general;vertical-align:bottom;border:.5pt solid windowtext;border-top:none;border-left:none;box-sizing: border-box;"><span style="font-family: 'Times New Roman', Times, serif;">Unique Loan ID</span><br></td>
-</tr>
-<tr>
-<td style="color:black;font-size:16px;font-weight:400;font-style:normal;text-decoration:none;font-family:Calibri, sans-serif;text-align:general;vertical-align:bottom;border:.5pt solid windowtext;height:16.0pt;border-top:none;box-sizing: border-box;"><span style="font-family: 'Times New Roman', Times, serif;">Loan_Status</span></td>
-<td style="color:black;font-size:16px;font-weight:400;font-style:normal;text-decoration:none;font-family:Calibri, sans-serif;text-align:general;vertical-align:bottom;border:.5pt solid windowtext;border-top:none;border-left:none;box-sizing: border-box;"><span style="font-family: 'Times New Roman', Times, serif;">(Target) Loan approved (Y/N)<br></span></td>
-</tr>
-</tbody>
-</table>
